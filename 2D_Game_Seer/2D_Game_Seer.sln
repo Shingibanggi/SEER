@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D_Game_Seer", "Assembly-CSharp.csproj", "{B7D91109-89FC-62B1-60F5-946F87821B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D_Game_Seer", "Assembly-CSharp-firstpass.csproj", "{7D61BD7B-9596-E585-849E-FF45E00D1B64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2D_Game_Seer", "Assembly-CSharp-Editor-firstpass.csproj", "{CEF00E7B-436E-7376-0359-47796B847B68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7D91109-89FC-62B1-60F5-946F87821B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D91109-89FC-62B1-60F5-946F87821B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D91109-89FC-62B1-60F5-946F87821B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D91109-89FC-62B1-60F5-946F87821B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D61BD7B-9596-E585-849E-FF45E00D1B64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D61BD7B-9596-E585-849E-FF45E00D1B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D61BD7B-9596-E585-849E-FF45E00D1B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D61BD7B-9596-E585-849E-FF45E00D1B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF00E7B-436E-7376-0359-47796B847B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF00E7B-436E-7376-0359-47796B847B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF00E7B-436E-7376-0359-47796B847B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF00E7B-436E-7376-0359-47796B847B68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
