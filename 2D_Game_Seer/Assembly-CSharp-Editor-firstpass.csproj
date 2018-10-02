@@ -308,6 +308,39 @@
     <Reference Include="TextMeshPro-2017.3-Runtime">
       <HintPath>/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Assets/TextMesh Pro/Plugins/Editor DLL/TextMeshPro-2017.3-Runtime.dll</HintPath>
     </Reference>
+    <Reference Include="Google.IOSResolver_v1.2.88.0">
+      <HintPath>/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Assets/PlayServicesResolver/Editor/Google.IOSResolver_v1.2.88.0.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.VersionHandlerImpl_v1.2.88.0">
+      <HintPath>/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Assets/PlayServicesResolver/Editor/Google.VersionHandlerImpl_v1.2.88.0.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.VersionHandler">
+      <HintPath>/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Assets/PlayServicesResolver/Editor/Google.VersionHandler.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.JarResolver_v1.2.88.0">
+      <HintPath>/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Assets/PlayServicesResolver/Editor/Google.JarResolver_v1.2.88.0.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Compat">
+      <HintPath>/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Assets/Parse/Plugins/Unity.Compat.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Tasks">
+      <HintPath>/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Assets/Parse/Plugins/Unity.Tasks.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.Auth">
+      <HintPath>/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Assets/Firebase/Plugins/Firebase.Auth.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.MiniJson">
+      <HintPath>/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Assets/Firebase/Plugins/Google.MiniJson.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.App">
+      <HintPath>/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Assets/Firebase/Plugins/Firebase.App.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.Platform">
+      <HintPath>/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Assets/Firebase/Plugins/Firebase.Platform.dll</HintPath>
+    </Reference>
+    <Reference Include="Firebase.Editor">
+      <HintPath>/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Assets/Firebase/Editor/Firebase.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="UnityEditor.Advertisements">
       <HintPath>/Users/parkyoungchan/Library/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>

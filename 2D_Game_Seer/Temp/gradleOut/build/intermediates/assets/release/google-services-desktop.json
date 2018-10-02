@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "378669055431",
+    "firebase_url": "https://seer-212106.firebaseio.com",
+    "project_id": "seer-212106",
+    "storage_bucket": "seer-212106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378669055431:android:fdef696b5d41e2fc",
+        "android_client_info": {
+          "package_name": "com.Seer.TestGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378669055431-8fo9a9rqf1f3mepapg62svcek4jum9o0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCipWDvjpaefmDMvYiCCAmE2FmDWvxCPUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

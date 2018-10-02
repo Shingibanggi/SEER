@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/039e8470caa360798f6d7e47b3225de3eef1f723/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/039e8470caa360798f6d7e47b3225de3eef1f723/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/039e8470caa360798f6d7e47b3225de3eef1f723/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/039e8470caa360798f6d7e47b3225de3eef1f723/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    }
+]

@@ -1,0 +1,378 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-97
+		INJECTED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:2:98-144
+	xmlns:android
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:2:145-185
+supports-screens
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-16:17
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/parkyoungchan/.android/build-cache/86f6a8e2f7abc11cf41ac49af76299df812982c3/output/AndroidManifest.xml:24:5-28:19
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/parkyoungchan/.android/build-cache/039e8470caa360798f6d7e47b3225de3eef1f723/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/parkyoungchan/.android/build-cache/2e8918c78faf396424c962f301c6e7a1aef5e9a3/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/parkyoungchan/.android/build-cache/e81039891e9672cbe6e443424fa959fec26dc33d/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/parkyoungchan/.android/build-cache/388869edbee6fcc9c47a6faa8f1bf46e57276c36/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/parkyoungchan/.android/build-cache/bbc336445d0abfd52c6f4fb8db8f70753487aca9/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/parkyoungchan/.android/build-cache/c1ac31dc1c198d8731ae518e2bcbd32f6c30f790/output/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.google.android.gms.play-services-ads-identifier-15.0.1:] /Users/parkyoungchan/.android/build-cache/272d4c59c15208526d2bf4852449d60efbf45892/output/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-basement-15.0.1:] /Users/parkyoungchan/.android/build-cache/ee0e642325d6e54bbb801b4a9092b8247502002e/output/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-measurement-api-16.0.1:] /Users/parkyoungchan/.android/build-cache/4cb5702ae311a634a1b9faaade7f3555c0fd09ef/output/AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-measurement-base-16.0.2:] /Users/parkyoungchan/.android/build-cache/30df3a703a945c8114d2df1e39a48eb7f87dad3f/output/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-stats-15.0.1:] /Users/parkyoungchan/.android/build-cache/7779a261948383fd1f8b2ca0aa30ea165cbd4598/output/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-15.0.1:] /Users/parkyoungchan/.android/build-cache/028b526482983f133057977a2f8bd37edb67b981/output/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:28:5-53:19
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.1:] /Users/parkyoungchan/.android/build-cache/7b121d1a351480b603d7f06618b5604ca3d4b18c/output/AndroidManifest.xml:28:5-38:19
+MERGED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/parkyoungchan/.android/build-cache/13151db5c5910d26dd0f7743d40603d689b734e3/output/AndroidManifest.xml:22:5-36:19
+MERGED from [:com.google.firebase.firebase-auth-interop-16.0.0:] /Users/parkyoungchan/.android/build-cache/079a6df29248a728d584c682865a4bcf4d8b5bd2/output/AndroidManifest.xml:7:5-8:19
+MERGED from [:com.google.firebase.firebase-common-16.0.1:] /Users/parkyoungchan/.android/build-cache/dcf3d3009d5c88b47f02f0805c169ab8e98cd5fc/output/AndroidManifest.xml:4:3-6:17
+MERGED from [:com.google.firebase.firebase-core-16.0.3:] /Users/parkyoungchan/.android/build-cache/4a3a7a8a03c2b8cb7e6a6b28df29ee774a6d11da/output/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:26:3-45:17
+MERGED from [:com.google.firebase.firebase-iid-interop-16.0.0:] /Users/parkyoungchan/.android/build-cache/d10a7b38ed5edee58019b8e3b6c5668667585047/output/AndroidManifest.xml:7:5-8:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-17.0.0:] /Users/parkyoungchan/.android/build-cache/347475fdf16e4dff7a03a153da475a47b0989c91/output/AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/parkyoungchan/.android/build-cache/acfeb2c0eb93ed6811b224df0448af7e2b7b404f/output/AndroidManifest.xml:26:5-32:19
+	android:label
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:4:50-82
+	android:icon
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-49
+	android:banner
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:4:105-142
+	android:isGame
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:4:83-104
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-140
+	android:label
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
+	android:hardwareAccelerated
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:5:355-390
+	android:launchMode
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:5:141-172
+	android:configChanges
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:5:173-354
+	android:name
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:11:18-58
+meta-data#unity.build-id
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-101
+	android:value
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:13:46-98
+	android:name
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:13:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-69
+	android:value
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:14:49-66
+	android:name
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-74
+	android:value
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:15:51-71
+	android:name
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-50
+uses-feature#0x00020000
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:17:3-52
+	android:glEsVersion
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:17:17-49
+uses-permission#android.permission.INTERNET
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:18:3-65
+MERGED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.1:] /Users/parkyoungchan/.android/build-cache/7b121d1a351480b603d7f06618b5604ca3d4b18c/output/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:20:3-65
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/parkyoungchan/.android/build-cache/acfeb2c0eb93ed6811b224df0448af7e2b7b404f/output/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:18:20-62
+uses-feature#android.hardware.sensor.accelerometer
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-97
+	android:required
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:19:70-94
+	android:name
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:19:17-69
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-88
+	android:required
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:20:61-85
+	android:name
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:20:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-99
+	android:required
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:21:72-96
+	android:name
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:21:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:22:3-108
+	android:required
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:22:81-105
+	android:name
+		ADDED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml:22:17-80
+uses-sdk
+INJECTED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/parkyoungchan/.android/build-cache/86f6a8e2f7abc11cf41ac49af76299df812982c3/output/AndroidManifest.xml:20:5-22:41
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/parkyoungchan/.android/build-cache/039e8470caa360798f6d7e47b3225de3eef1f723/output/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/parkyoungchan/.android/build-cache/2e8918c78faf396424c962f301c6e7a1aef5e9a3/output/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/parkyoungchan/.android/build-cache/e81039891e9672cbe6e443424fa959fec26dc33d/output/AndroidManifest.xml:21:5-23:61
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/parkyoungchan/.android/build-cache/388869edbee6fcc9c47a6faa8f1bf46e57276c36/output/AndroidManifest.xml:21:5-23:60
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/parkyoungchan/.android/build-cache/bbc336445d0abfd52c6f4fb8db8f70753487aca9/output/AndroidManifest.xml:21:5-23:63
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/parkyoungchan/.android/build-cache/c1ac31dc1c198d8731ae518e2bcbd32f6c30f790/output/AndroidManifest.xml:21:5-23:54
+MERGED from [:com.google.android.gms.play-services-ads-identifier-15.0.1:] /Users/parkyoungchan/.android/build-cache/272d4c59c15208526d2bf4852449d60efbf45892/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-15.0.1:] /Users/parkyoungchan/.android/build-cache/ee0e642325d6e54bbb801b4a9092b8247502002e/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-flags-15.0.1:] /Users/parkyoungchan/.android/build-cache/9ce42e985bad1b3d0d59300c1d31c223c1961f29/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-api-16.0.1:] /Users/parkyoungchan/.android/build-cache/4cb5702ae311a634a1b9faaade7f3555c0fd09ef/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-16.0.2:] /Users/parkyoungchan/.android/build-cache/30df3a703a945c8114d2df1e39a48eb7f87dad3f/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-stats-15.0.1:] /Users/parkyoungchan/.android/build-cache/7779a261948383fd1f8b2ca0aa30ea165cbd4598/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-15.0.1:] /Users/parkyoungchan/.android/build-cache/028b526482983f133057977a2f8bd37edb67b981/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.1:] /Users/parkyoungchan/.android/build-cache/7b121d1a351480b603d7f06618b5604ca3d4b18c/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-app-unity-5.3.0:] /Users/parkyoungchan/.android/build-cache/ebb9b7835683ac088cc5a31aa8ae01d5498f55ed/output/AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/parkyoungchan/.android/build-cache/13151db5c5910d26dd0f7743d40603d689b734e3/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-auth-interop-16.0.0:] /Users/parkyoungchan/.android/build-cache/079a6df29248a728d584c682865a4bcf4d8b5bd2/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-auth-unity-5.3.0:] /Users/parkyoungchan/.android/build-cache/60c192c959a96883637cb7d6318e1995288aad01/output/AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-common-16.0.1:] /Users/parkyoungchan/.android/build-cache/dcf3d3009d5c88b47f02f0805c169ab8e98cd5fc/output/AndroidManifest.xml:3:3-72
+MERGED from [:com.google.firebase.firebase-core-16.0.3:] /Users/parkyoungchan/.android/build-cache/4a3a7a8a03c2b8cb7e6a6b28df29ee774a6d11da/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:18:3-42
+MERGED from [:com.google.firebase.firebase-iid-interop-16.0.0:] /Users/parkyoungchan/.android/build-cache/d10a7b38ed5edee58019b8e3b6c5668667585047/output/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-measurement-connector-17.0.0:] /Users/parkyoungchan/.android/build-cache/347475fdf16e4dff7a03a153da475a47b0989c91/output/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/parkyoungchan/.android/build-cache/acfeb2c0eb93ed6811b224df0448af7e2b7b404f/output/AndroidManifest.xml:20:5-44
+MERGED from [gradleOut:Firebase:unspecified] /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/Firebase/build/intermediates/bundles/default/AndroidManifest.xml:15:5-17:40
+	tools:overrideLibrary
+		ADDED from [:com.android.support.support-compat-26.1.0:] /Users/parkyoungchan/.android/build-cache/039e8470caa360798f6d7e47b3225de3eef1f723/output/AndroidManifest.xml:23:9-55
+	android:targetSdkVersion
+		INJECTED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/src/main/AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/parkyoungchan/.android/build-cache/86f6a8e2f7abc11cf41ac49af76299df812982c3/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/parkyoungchan/.android/build-cache/86f6a8e2f7abc11cf41ac49af76299df812982c3/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/parkyoungchan/.android/build-cache/86f6a8e2f7abc11cf41ac49af76299df812982c3/output/AndroidManifest.xml:26:13-58
+meta-data#android.support.VERSION
+ADDED from [:com.android.support.support-compat-26.1.0:] /Users/parkyoungchan/.android/build-cache/039e8470caa360798f6d7e47b3225de3eef1f723/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/parkyoungchan/.android/build-cache/2e8918c78faf396424c962f301c6e7a1aef5e9a3/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/parkyoungchan/.android/build-cache/e81039891e9672cbe6e443424fa959fec26dc33d/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/parkyoungchan/.android/build-cache/388869edbee6fcc9c47a6faa8f1bf46e57276c36/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/parkyoungchan/.android/build-cache/bbc336445d0abfd52c6f4fb8db8f70753487aca9/output/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/parkyoungchan/.android/build-cache/c1ac31dc1c198d8731ae518e2bcbd32f6c30f790/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [:com.android.support.support-compat-26.1.0:] /Users/parkyoungchan/.android/build-cache/039e8470caa360798f6d7e47b3225de3eef1f723/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [:com.android.support.support-compat-26.1.0:] /Users/parkyoungchan/.android/build-cache/039e8470caa360798f6d7e47b3225de3eef1f723/output/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [:com.google.android.gms.play-services-base-15.0.1:] /Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-15.0.1:] /Users/parkyoungchan/.android/build-cache/ee0e642325d6e54bbb801b4a9092b8247502002e/output/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-15.0.1:] /Users/parkyoungchan/.android/build-cache/ee0e642325d6e54bbb801b4a9092b8247502002e/output/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-15.0.1:] /Users/parkyoungchan/.android/build-cache/ee0e642325d6e54bbb801b4a9092b8247502002e/output/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:24:5-79
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.1:] /Users/parkyoungchan/.android/build-cache/7b121d1a351480b603d7f06618b5604ca3d4b18c/output/AndroidManifest.xml:24:5-79
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:19:3-77
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/parkyoungchan/.android/build-cache/acfeb2c0eb93ed6811b224df0448af7e2b7b404f/output/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:25:5-68
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.1:] /Users/parkyoungchan/.android/build-cache/7b121d1a351480b603d7f06618b5604ca3d4b18c/output/AndroidManifest.xml:25:5-68
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:21:3-66
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/parkyoungchan/.android/build-cache/acfeb2c0eb93ed6811b224df0448af7e2b7b404f/output/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:26:5-110
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.1:] /Users/parkyoungchan/.android/build-cache/7b121d1a351480b603d7f06618b5604ca3d4b18c/output/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:34:9-42:20
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.1:] /Users/parkyoungchan/.android/build-cache/7b121d1a351480b603d7f06618b5604ca3d4b18c/output/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:35:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.3:] /Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/AndroidManifest.xml:49:13-87
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/parkyoungchan/.android/build-cache/13151db5c5910d26dd0f7743d40603d689b734e3/output/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/parkyoungchan/.android/build-cache/13151db5c5910d26dd0f7743d40603d689b734e3/output/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/parkyoungchan/.android/build-cache/13151db5c5910d26dd0f7743d40603d689b734e3/output/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/parkyoungchan/.android/build-cache/13151db5c5910d26dd0f7743d40603d689b734e3/output/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/parkyoungchan/.android/build-cache/13151db5c5910d26dd0f7743d40603d689b734e3/output/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/parkyoungchan/.android/build-cache/13151db5c5910d26dd0f7743d40603d689b734e3/output/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/parkyoungchan/.android/build-cache/13151db5c5910d26dd0f7743d40603d689b734e3/output/AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/parkyoungchan/.android/build-cache/13151db5c5910d26dd0f7743d40603d689b734e3/output/AndroidManifest.xml:31:9-35:19
+MERGED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:27:5-29:15
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/parkyoungchan/.android/build-cache/acfeb2c0eb93ed6811b224df0448af7e2b7b404f/output/AndroidManifest.xml:27:9-31:19
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/parkyoungchan/.android/build-cache/13151db5c5910d26dd0f7743d40603d689b734e3/output/AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/parkyoungchan/.android/build-cache/13151db5c5910d26dd0f7743d40603d689b734e3/output/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/parkyoungchan/.android/build-cache/13151db5c5910d26dd0f7743d40603d689b734e3/output/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-16.0.3:] /Users/parkyoungchan/.android/build-cache/13151db5c5910d26dd0f7743d40603d689b734e3/output/AndroidManifest.xml:33:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [:com.google.firebase.firebase-common-16.0.1:] /Users/parkyoungchan/.android/build-cache/dcf3d3009d5c88b47f02f0805c169ab8e98cd5fc/output/AndroidManifest.xml:5:5-192
+	android:authorities
+		ADDED from [:com.google.firebase.firebase-common-16.0.1:] /Users/parkyoungchan/.android/build-cache/dcf3d3009d5c88b47f02f0805c169ab8e98cd5fc/output/AndroidManifest.xml:5:80-140
+	android:exported
+		ADDED from [:com.google.firebase.firebase-common-16.0.1:] /Users/parkyoungchan/.android/build-cache/dcf3d3009d5c88b47f02f0805c169ab8e98cd5fc/output/AndroidManifest.xml:5:141-165
+	android:initOrder
+		ADDED from [:com.google.firebase.firebase-common-16.0.1:] /Users/parkyoungchan/.android/build-cache/dcf3d3009d5c88b47f02f0805c169ab8e98cd5fc/output/AndroidManifest.xml:5:166-189
+	android:name
+		ADDED from [:com.google.firebase.firebase-common-16.0.1:] /Users/parkyoungchan/.android/build-cache/dcf3d3009d5c88b47f02f0805c169ab8e98cd5fc/output/AndroidManifest.xml:5:15-79
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:23:3-80
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:23:20-77
+permission#com.Seer.TestGame.permission.C2D_MESSAGE
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:24:3-109
+	android:protectionLevel
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:24:71-106
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:24:15-70
+uses-permission#com.Seer.TestGame.permission.C2D_MESSAGE
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:25:3-78
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:25:20-75
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:28:7-166
+	android:value
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:28:98-163
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:28:18-97
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:30:5-35:16
+	android:exported
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:30:81-104
+	android:permission
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:30:105-165
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:30:15-80
+intent-filter#com.Seer.TestGame+com.google.android.c2dm.intent.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:31:7-34:23
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:32:9-73
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:32:17-70
+category#com.Seer.TestGame
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:33:9-54
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:33:19-51
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:40:5-44:15
+	android:exported
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:40:79-102
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:40:14-78
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:41:7-43:23
+	android:priority
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:41:22-45
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:42:9-72
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-16.0.0:] /Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/AndroidManifest.xml:42:17-69
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/parkyoungchan/.android/build-cache/acfeb2c0eb93ed6811b224df0448af7e2b7b404f/output/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/parkyoungchan/.android/build-cache/acfeb2c0eb93ed6811b224df0448af7e2b7b404f/output/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.1:] /Users/parkyoungchan/.android/build-cache/acfeb2c0eb93ed6811b224df0448af7e2b7b404f/output/AndroidManifest.xml:29:17-139

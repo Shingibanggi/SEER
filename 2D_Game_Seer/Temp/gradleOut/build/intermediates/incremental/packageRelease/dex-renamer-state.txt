@@ -1,0 +1,4 @@
+#Tue Oct 02 18:34:44 KST 2018
+base.0=/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

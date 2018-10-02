@@ -242,3 +242,10 @@
 /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
 /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/obj/Debug/Assembly-CSharp.dll
 /Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/obj/Debug/Assembly-CSharp.pdb
+/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/bin/Debug/Firebase.App.dll
+/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/bin/Debug/Firebase.Auth.dll
+/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/bin/Debug/Firebase.Platform.dll
+/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/bin/Debug/Google.MiniJson.dll
+/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/bin/Debug/Unity.Compat.dll
+/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/bin/Debug/Unity.Tasks.dll
+/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/bin/Debug/Assembly-CSharp-firstpass.pdb

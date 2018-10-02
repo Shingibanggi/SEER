@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/libs/com.android.support.support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/com.android.support.support-annotations-26.1.0_7fafd8ccffdf354eb648a3a76103a35647544aa0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/e81039891e9672cbe6e443424fa959fec26dc33d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_4d1b805eae095b075ff312df275950ff9279e6df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/388869edbee6fcc9c47a6faa8f1bf46e57276c36/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_78f9b94beb4abb03586b4afc8104b96e70de2a64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/libs/android.arch.core.common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/android.arch.core.common-1.0.0_9bf5ab4d08f2a331f3d598036c6ac3dead3d8bc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/9ce42e985bad1b3d0d59300c1d31c223c1961f29/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="04a44d20bec92359951d025757218220f93b5d4b">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_3964eb957b2e21ac391064822069aec1d5c2b35b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/2e8918c78faf396424c962f301c6e7a1aef5e9a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_703a38c50d3c5a517af83f52280e87dd474aceb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/028b526482983f133057977a2f8bd37edb67b981/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="4d4d98a0428b2e620e6b4a228ef9f7cb2f0debd2">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_338807931b27c0333936b6a483ee6c1d4f4f1edc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/86f6a8e2f7abc11cf41ac49af76299df812982c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_45252102fa9dc133b4704e1d278d1f13dd25d9f8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/d7886c551ff40101d224bf038fb2e8f1fa9525e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="59791280ffd12fcdf51e5e182afc53abb0a02c71">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_b464a055a0d1cb9ca7ce5b673962213fa4969fd3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/c1ac31dc1c198d8731ae518e2bcbd32f6c30f790/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_27e61198693a93bd1408fe1cdf0935ca1584d15f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/13151db5c5910d26dd0f7743d40603d689b734e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="b5a03c01babdb2a80f770eb5880d0467ec6415d0">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_b6db0e875aff15b4b2e443342a0af50a8ea3002f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/Firebase/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="40ff3be403f28768b5e51eb3a76547170dd88e95">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_0d8479a0ff8aa5686348c6c0f9ee20acb1adbfee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/bbc336445d0abfd52c6f4fb8db8f70753487aca9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_8888eacac4eb831427f0811bf792673add5ed08e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/079a6df29248a728d584c682865a4bcf4d8b5bd2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="efe9d64183cd00b0cd3d876383ed177e6b37398c">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_f49eb09a36e00c46bd9c3d9b21a436fda5833af9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/039e8470caa360798f6d7e47b3225de3eef1f723/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_92cab466a51f3291c03d7266e8484ee691e4a8ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/30df3a703a945c8114d2df1e39a48eb7f87dad3f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="589cf4763170e413dadd9f92e04aa8a7612d9076">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_9a5ba79c9b0e89e2c4b1018f10137820c42bee65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/ee0e642325d6e54bbb801b4a9092b8247502002e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="d8fe6d91310b54734f454dd490c3c869f6290576">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_bdc723db56bfdb433c04e0ebf1afa56f2a5d2dfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/7ad429a752b3f17d999f21043635751b4c10f20b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="8d813c05361147f6f515f749df19223cd6256314">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_c27ec9013eadef3db988175cdcdac9348c99e827.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/libs/unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="2758e3b38c1451199232e72dfad44c835c018c33">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/unity-classes_8514f9552d007d87b35d1ec5cf783e14d99e1cef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/272d4c59c15208526d2bf4852449d60efbf45892/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="63413895dce50f6123807d1db2274a1982a34194">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_022f45a3e346d3e4160c9c0cd61db16cd6e6f22a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/293fe8b49067dd814f03eb09426bf7ec85163ed0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="1e224748cbf54c34eac0bca6376922468b786775">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_105846df593b0f0cfe8988faf612a76c237cf052.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/347475fdf16e4dff7a03a153da475a47b0989c91/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="930a2efcf04828abbc02a1624235f271dd3ebd4e">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_067194f672a4951311c34ce5dab6b4a4b85a21f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/7b121d1a351480b603d7f06618b5604ca3d4b18c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="12c28e89a7ca29cdfa769155ae0b161c808155f9">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_49ca1e26521bcc63f14a8b174fb8ef195170a73a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/acfeb2c0eb93ed6811b224df0448af7e2b7b404f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="76a618dcfc50e7d92ff03f234796b84533323190">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_5907d81d7099e4c66c548994514f23957882d56d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/dcf3d3009d5c88b47f02f0805c169ab8e98cd5fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="ebe9115a8c3cb248ba6bd2fb5546ab72dae11a88">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_203066e2220f2eab8f61108b1f44663a0bf5124d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/7779a261948383fd1f8b2ca0aa30ea165cbd4598/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="c1e9d140d3260619ce2fa991d30b14b531d61dec">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_80341df1a3c15ad315abb6c17c6d37ed863ee854.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/4cb5702ae311a634a1b9faaade7f3555c0fd09ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="0ab9ee745d207914473f5e796e172a106edb1e57">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_130e70dd4a773545c752105e27f5a8eb8fe884df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/.android/build-cache/d10a7b38ed5edee58019b8e3b6c5668667585047/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="2a69972573cb7e5cc6b8652bacf981e82b68ff71">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/classes_7bbf03d1c26221d6f38b0bd36f63215c566d3932.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/libs/android.arch.lifecycle.common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.1"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/pre-dexed/release/android.arch.lifecycle.common-1.0.0_d7648fb7f190ca16f53eaa7644a851e199b3fa30.jar" />
+    </item>
+
+</items>

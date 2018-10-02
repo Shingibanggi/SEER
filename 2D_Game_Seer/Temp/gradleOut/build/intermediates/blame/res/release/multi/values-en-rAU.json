@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/parkyoungchan/Documents/unity_project/2D_Game_Seer/Temp/gradleOut/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 100,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "/Users/parkyoungchan/.android/build-cache/039e8470caa360798f6d7e47b3225de3eef1f723/output/res/values-en-rAU/values-en-rAU.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]
